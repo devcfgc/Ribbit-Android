@@ -12,8 +12,17 @@
     <string name="password_hint">Password</string>
     <string name="login_button_label">Login</string>
     <string name="sign_up_text">Sign Up!</string>
+    <string name="forgot_password_text">Forgot Password?</string>
     <string name="title_activity_sign_up">SignUpActivity</string>
     <string name="email_hint">Email</string>
     <string name="sign_up_button_label">Sign Up</string>
-
+    <string name="signup_error_message">Please make sure you enter a username, password and email address</string>
+    <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please make sure you enter a username and password</string>
+    <string name="login_error_title">Oops!</string>
+    <string name="forgot_password_message">Please enter an email to reset the password</string>
+    <string name="forgot_password_title">Reset password</string>
+    <string name="forgot_password_error_email_title">Invalid email</string>
+    <string name="menu_logout_label">Logout</string>
+    
 </resources>
