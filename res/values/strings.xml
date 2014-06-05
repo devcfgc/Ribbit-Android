@@ -52,5 +52,6 @@
     <string name="error_sending_message">There was an error sending your message. Please try again.</string>
     <string name="title_activity_text_msg">TextMsgActivity</string>
     <string name="send_text_message">Send Message</string>
+    <string name="title_activity_view_image">Ribbit</string>
 
 </resources>
